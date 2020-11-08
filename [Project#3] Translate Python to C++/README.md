@@ -1,2 +1,5 @@
-# iSDC-P2-Translate-Python-Cpp
-Repository for P2 of iSDC - Translate Python to C++
+In this Project:
+
+-Implemented a 2D Histogram Filter for a robot living on a colored cyclical grid in C++
+
+-Implemented the "initialize_beliefs", "sense", and "move" functions.
